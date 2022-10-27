@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jude Estinfil
 =====================================================================================================================================
 
-I developed spidey senses on the web
+Developing spidey senses on the web
 ------------------------------------
 
 From static Wordpress to deploying React applications with IoT integrability Emulators to web 3.0, with some culinary expertise in between I have been in this industry a little over 12 years and many more to come.
